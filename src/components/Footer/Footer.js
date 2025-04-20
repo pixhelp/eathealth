@@ -12,7 +12,7 @@ const FooterContainer = styled.footer`
 const Footer = () => {
     return (
         <FooterContainer>
-            <p>© 2019 Bootstrapious All rights reserved.</p>
+            <p>© Eathealth</p>
         </FooterContainer>
     )
 }
